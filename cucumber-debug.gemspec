@@ -20,4 +20,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'cucumber-rails'
   s.add_dependency 'launchy'
+
+  s.add_development_dependency 'rake'
 end
